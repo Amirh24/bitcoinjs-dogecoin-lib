@@ -26,7 +26,6 @@ module.exports = {
   },
   dogecoin: {
     messagePrefix: '\x19Dogecoin Signed Message:\n',
-    bech32: 'tb',
     bip32: {
       public: 0x02facafd,
       private: 0x02fac398
